@@ -1,10 +1,8 @@
-\#CSD 380 DevOps
+\# CSD 340 Web Development with HTML and CSS
 
-\##Contributors
+\## Contributors
 
-...Sue Sampson
+\- Instructor Sue Sampson
 
-...Kristopher Kuenning
-
-
+\- Student Kristopher Kuenning
 
